@@ -1,6 +1,6 @@
 # Hi, I'm Yair Salvador 👋
 
-**I'm a 📓 CS student & 💻 Software developer**
+**I'm a 📓 CS student & 💻 Software developer at [Sidepocket](https://www.sidepocket.com/)**
 
 I do what I find fun at the moment
 
