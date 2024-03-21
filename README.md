@@ -1,4 +1,4 @@
-# Hi, I'm Yair Salvador 👋
+# Hi, I'm Yair Salvador 👋. I am gay as fuck!
 
 **I'm a 📓 CS student & 💻 Software developer at [Sidepocket](https://www.sidepocket.com/)**
 
