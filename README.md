@@ -4,7 +4,7 @@
 
 I do what I find fun at the moment
 
-![image](https://github.com/Y0z64/Y0z64/assets/112516101/1bd7d6d5-3122-4d49-8985-bd1dad1c80f0)
+![image](https://i.kym-cdn.com/photos/images/original/001/479/169/c57.gif)
 
 
 ## 🗿 About me
