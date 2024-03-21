@@ -4,8 +4,6 @@
 
 I do what I find fun at the moment
 
-![image](https://i.kym-cdn.com/photos/images/original/001/479/169/c57.gif)
-
 
 ## 🗿 About me
 
