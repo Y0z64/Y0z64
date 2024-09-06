@@ -38,5 +38,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-See my portfolio! (might or might not be up to date) 👇
+## 💻 See my portfolio! *(might or might not be up to date)* 👇
 <a href="https://y0z64.github.io/" target="_blank"><img align='center' alt="Filler image" src="https://github.com/Y0z64/Y0z64/assets/112516101/4ddd841e-8325-4a96-8b5a-3a261284ddac" /></a>
