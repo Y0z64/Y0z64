@@ -7,12 +7,18 @@ I do what I find fun at the moment
 
 ## 🗿 About me
 
-- ⌨️ Software developer at [Adok](https://www.adokmx.com/)
-
-- 🖋️ Notion campus leader
+- ⌨️ Research intern at FNNDSC [FNNDSC](http://fnndsc.tch.harvard.edu/)
 
 - <img src="https://user-images.githubusercontent.com/7455707/136626898-4b43a110-89f7-40be-bb9e-d98e572ac46b.png" width="20" height="20" /> I'm part of the Líderes del Mañana scholarship
 
+
+## 🕰️ Previously worked on
+
+- [IBM](https://www.ibm.com/mx-es)
+
+- [Adok](https://www.adokmx.com/)
+
+- [Sidepocket](https://www.sidepocket.com/)
 
 ## 🗃️ Some of my work
 
